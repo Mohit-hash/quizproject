@@ -8,4 +8,4 @@ Required Jar Files
 To start the application :
 - first build path all the required jars
 - create required table in oracle database 
-- click on FirstPage.java
+- Run FirstPage.java
